@@ -1,1 +1,1 @@
-This is a secret basis of projects that I have practiced.:)
+A secret repository for all my personal coding practice and side projects:)_
