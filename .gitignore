@@ -1,0 +1,18 @@
+ 
+# Visual Studio 编译输出
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.log
+*.tlog/
+*.recipe
+*.lastbuildstate
+*.user
+*.suo
+banker_log.txt
